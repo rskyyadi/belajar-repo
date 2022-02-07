@@ -1,6 +1,6 @@
 import {useState} from "react";
 import {Button} from 'react-bootstrap'
-
+//tttttt
 function dataCreate(props){
     const [getInput, setInput]= useState('')
 
